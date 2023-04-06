@@ -1,2 +1,2 @@
 # SampoWebDemo
-static web demo
+学无止境
